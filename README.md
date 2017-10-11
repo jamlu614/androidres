@@ -18,3 +18,5 @@
 9.android黑科技：http://www.jianshu.com/p/cb2deed0f2d8
 
 10.android 学习资料 http://liuwangshu.cn/system/
+
+11.IM资料 http://www.52im.net/thread-464-1-1.html
